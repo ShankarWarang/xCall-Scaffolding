@@ -1,0 +1,20 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "icon-sdk-js": "^1.5.1",
+    "web3": "^4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
+}
